@@ -6,3 +6,11 @@ img {
     max-width: 500px;
     max-height: 500px;
 }
+
+button, label{
+    color: black;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}

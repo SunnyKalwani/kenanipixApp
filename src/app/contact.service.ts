@@ -8,7 +8,7 @@ import { map } from 'rxjs';
 export class ContactService {
 
 
-  private api = 'https://mailthis.to/Sunny'
+  private api = 'https://mailthis.to/Hamid'
 
   constructor(private http: HttpClient) { }
 
